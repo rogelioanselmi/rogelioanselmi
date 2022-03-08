@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
+My name is Rogelio, I'm from Argentina and I'm a full stack developer
 
-<!--
-**rogelioanselmi/rogelioanselmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Currently working for SENASA as developer and OCEBA as SRE
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React.js and Node.js dev since 2019
+* Linux server administration for last 2 years
+* Expirence on dockerization of databases and services
+* I'm currently Learning about web3 and crypto
+
+## Contact
+
+Find my resume in [website]()
