@@ -12,4 +12,4 @@ My name is Rogelio, I'm from Argentina and I'm a full stack developer
 
 ## Contact
 
-Find my resume in [website]()
+Find my resume in [website](https://www.linkedin.com/in/jes%C3%BAs-rogelio-anselmi-su%C3%A1rez-5b9065b7/)
